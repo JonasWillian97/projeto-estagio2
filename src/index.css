@@ -1,0 +1,19 @@
+button {
+  cursor: pointer;
+}
+
+body {
+  font-family: sans-serif;
+  background: linear-gradient(#DC0992, #DC09DC );
+  color: #fff;
+  width: 100vw;
+  height: 100vh
+
+}
+
+a{
+  color: #fff;
+  text-decoration: none;
+  outline: none;
+
+}
